@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leontaube.com/sitemap.xml
